@@ -79,9 +79,6 @@
       <a href="https://github.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
       </a>
-      <a href="https://gitforwindows.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Git_bash_logo.svg" alt="Git Bash" width="40" height="40"/>
-      </a>
     </td>
   </tr>
 </table>
