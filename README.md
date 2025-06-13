@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on **AI-powered Learning Systems & Blockchain Projects**
 - 🌱 I’m currently learning **React, Flask, TensorFlow, and DevOps Tools**
 - 💬 Ask me about **Full Stack Development, DSA, and ML**
-- 📫 Reach me at: **prajwalmededar17@gmail.com**
+- 📫 Reach me at: **prajwalmededar@gmail.com**
 - ⚡ Fun fact: I'm a night owl 🦉 who codes better after midnight!
 
 ---
@@ -58,7 +58,7 @@
   <a href="https://twitter.com/prajwalmededar" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/prajwalchannappamededar" target="_blank">
+  <a href="www.linkedin.com/in/prajwal-channappa-mededar-80425325a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/prajwal_cm_18" target="_blank">
