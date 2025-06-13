@@ -29,8 +29,8 @@
 | Category              | Technologies |
 |-----------------------|--------------|
 | **Languages**         | ![C](https://img.shields.io/badge/-C-000?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) |
-| **Frontend**          | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) |
-| **Backend**           | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express) |
+| **Frontend**          | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) |
+| **Backend**           | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask) |
 | **Databases**         | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle) |
 | **Developer Tools**   | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) ![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat&logo=googlecolab) ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle) |
 
@@ -58,7 +58,7 @@
   <a href="https://twitter.com/prajwalmededar" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/prajwal-channappa-mededar-80425325a" target="_blank">
+  <a href="https://www.linkedin.com/in/prajwal-channappa-mededar-80425325a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/prajwal_cm_18" target="_blank">
